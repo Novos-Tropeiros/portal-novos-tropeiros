@@ -1,8 +1,13 @@
 @import "fonts";
-@import "variables";
+@import "variables.custom.boostrap";
 
 @import "~bootstrap/scss/bootstrap";
 
-body {
-  background: #fff;
+
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
 }

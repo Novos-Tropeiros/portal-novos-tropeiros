@@ -1,4 +1,6 @@
+// Vendors
 import 'bootstrap'
-import './sass/main.scss'
+import "jquery.easing";
 
+import './sass/main.scss'
 import './js/main'
