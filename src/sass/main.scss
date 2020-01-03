@@ -1,6 +1,8 @@
 @import "fonts";
 @import "variables.custom.boostrap";
+@import "nav-bars";
 
+// Deixar a referencia do boostrap sempre depois dos arquivos de variáveis customizados.
 @import "~bootstrap/scss/bootstrap";
 
 
