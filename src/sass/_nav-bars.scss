@@ -1,15 +1,21 @@
+.navbar-main {
+    padding-top: 40px !important;
+}
+
+
+
 .navbar-nav-maerials>li>a {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 9px;
     margin-top: 0;
     margin-bottom: 0;
-
+    font-size: 1.2rem;
     vertical-align: bottom;
 }
 
-.navbar-nav-main {
+.navbar-nav-menu {
     li>a {
-        font-size: 1.2rem;
+        font-size: 1.6rem;
     }
 }

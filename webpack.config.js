@@ -46,13 +46,13 @@ module.exports = (env, options) => ({
         ]
       },
       {
-        test: /\.(png|jpg|gif|svg)$/,
+        test: /\.(png|jpg|gif|svg|ico)$/,
         use: [
           {
             loader: "file-loader",
             options: {
               name: "[name].[ext]",
-              outputPath: "img/"
+              outputPath: "imgs/"
             }
           }
         ]
