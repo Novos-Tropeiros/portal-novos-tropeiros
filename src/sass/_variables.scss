@@ -22,12 +22,10 @@ $screen-lg-max: 1440px;
 $screen-xlg-min: 1441px;
 $screen-xlg-max: 2560px;
 
-$font-family-playfair: 'Playfair Display',
-serif;
 $font-family-khand: 'Khand',
 serif;
 
-$font-family-sans-serif: $font-family-khand !default;
+$font-family-sans-serif: $font-family-khand;
 
 $font-weight-thin: 100;
 $font-weight-exlight: 200;
